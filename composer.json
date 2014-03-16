@@ -13,9 +13,9 @@
         }
     ],
     "require": {
-        "mockery/mockery": "0.9.*@dev",
-        "bencoder/passbaselib": "dev-master"
-
+        "bencoder/passbaselib": "dev-master",
+        "phpunit/phpunit": "3.7.*@dev",
+        "mockery/mockery": "0.9.*@dev"
     },
     "autoload": {
         "psr-0": { "PassBase":"src/" }
