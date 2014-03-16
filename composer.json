@@ -1,0 +1,23 @@
+{
+    "name": "bencoder/passbaseapp",
+    "authors": [
+        {
+            "name": "Ben Clark",
+            "email": "bencoder@googlemail.com"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "git@github.com:bencoder/passbase-lib.git"
+        }
+    ],
+    "require": {
+        "mockery/mockery": "0.9.*@dev",
+        "bencoder/passbaselib": "dev-master"
+
+    },
+    "autoload": {
+        "psr-0": { "PassBase":"src/" }
+    }
+}
