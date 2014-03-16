@@ -29,7 +29,9 @@
         "incenteev/composer-parameter-handler": "~2.0",
         "bencoder/passbaselib": "dev-master",
         "phpunit/phpunit": "3.7.*@dev",
-        "mockery/mockery": "0.9.*@dev"
+        "mockery/mockery": "0.9.*@dev",
+        "doctrine/mongodb-odm": "1.0.*@dev",
+        "doctrine/mongodb-odm-bundle": "3.0.*@dev"
     },
     "autoload": {
         "psr-0": { "":"src/" }

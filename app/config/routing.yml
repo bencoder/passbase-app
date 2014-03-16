@@ -1,0 +1,8 @@
+pass_base_integration:
+    resource: "@PassBaseIntegrationBundle/Resources/config/routing.yml"
+    prefix:   /
+
+pass_base_site:
+    resource: "@PassBaseSiteBundle/Resources/config/routing.yml"
+    prefix:   /
+
