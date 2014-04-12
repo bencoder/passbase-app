@@ -11,12 +11,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/bencoder/passbase-lib.git",
-                "reference": "0c6d1bd94c33ed4b979b6e3f74dcb7502a64a63e"
+                "reference": "c7c08bcd522176e15992f9005fbf63aeb7159feb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/bencoder/passbase-lib/zipball/0c6d1bd94c33ed4b979b6e3f74dcb7502a64a63e",
-                "reference": "0c6d1bd94c33ed4b979b6e3f74dcb7502a64a63e",
+                "url": "https://api.github.com/repos/bencoder/passbase-lib/zipball/c7c08bcd522176e15992f9005fbf63aeb7159feb",
+                "reference": "c7c08bcd522176e15992f9005fbf63aeb7159feb",
                 "shasum": ""
             },
             "require": {
@@ -39,7 +39,7 @@
                 "source": "https://github.com/bencoder/passbase-lib/tree/master",
                 "issues": "https://github.com/bencoder/passbase-lib/issues"
             },
-            "time": "2014-03-16 18:34:04"
+            "time": "2014-04-10 20:24:05"
         },
         {
             "name": "doctrine/annotations",
